@@ -17,3 +17,8 @@ To run this project, you'll need the following installed:
 
 * **Python 3.x**
 * **A Webcam**
+* **Required Python Libraries:**
+    * `opencv-python`
+    * `mediapipe`
+    * `numpy`
+    * `scikit-learn`
