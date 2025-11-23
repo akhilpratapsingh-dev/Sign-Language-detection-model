@@ -3,7 +3,7 @@ import cv2
 import mediapipe as mp
 import numpy as np
 
-#commit check
+
 # Load model
 # Ensure the model file 'model.p' is in the same directory as this script.
 try:

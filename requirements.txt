@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 opencv-python==4.7.0.68
 mediapipe==0.10.7
 scikit-learn==1.2.0
+=======
+opencv-python==4.7.0.68
+mediapipe==0.10.7
+scikit-learn==1.2.0
+>>>>>>> 81f9f4f03a83ee6a1137f43e5f6cfca682d0ad77
